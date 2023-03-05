@@ -39,3 +39,6 @@ Add page numbers
 
 Booklet format  
 `platepro 'book nup(2, paper=a4)' input.pdf output.pdf`  
+
+adapted from 
+ https://github.com/ksharindam/pdfcook
