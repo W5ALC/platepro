@@ -7,17 +7,11 @@ Enter directory src
 run  
 ```
 make -j4  
-sudo make install  
+make install  
 ```  
 Install manpage  
-`sudo make installman`  
+`make installman`  
 
-**Windows Build**  
-On windows create a folder build/ beside src/ directory.  
-And edit Makefile and remove lines with  
-`	@mkdir -p $(@D)`  
-Then to build run...  
- `make -j4`  
 
 ### Features
 * PDF v1.7 support  
