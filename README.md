@@ -5,10 +5,10 @@ Preprinting preparation tool for PDF ebooks.
 Enter directory src  
 `cd src`  
 run  
-`
-make -j4  
-make install  
-`
+
+`make -j4`
+`make install`
+
 Install manpage  
 `make installman`  
 
