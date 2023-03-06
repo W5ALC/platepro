@@ -7,6 +7,7 @@ Enter directory src
 run  
 
 `make -j4`
+
 `make install`
 
 Install manpage  
