@@ -3,11 +3,13 @@ Prepress preparation tool for PDF files.
 
 ### Build and Install
 Enter directory src  
-`cd src`  
+`cd src` 
+
 run  
 `make -j4`
 
 `make install`
+
 Install manpage  
 `make installman`  
 
